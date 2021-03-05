@@ -5,4 +5,4 @@ Here, the scripts that I write for certain tasks can be seen. They are usually r
 
 A small function to make very basic overview of the dataset. The questions it gives answers to:
 
-*How man
+-How man
